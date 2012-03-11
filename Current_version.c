@@ -1,18 +1,26 @@
 ﻿/*程式框架(Program Framework)
 -----------------------------------
-程式名稱(program name)：。
-程式描述(program description)：。
-程式版本(program version)：0.00(0)
-程式框架版本(program framework version)：A
-程式框架修訂號(program framework revision number)：201109251624
 更新紀錄(changelog)：
   Changelog is now stored on github
 已知問題(known issues)：
   Known issues is now stored on github
 待辦事項(todo)：
   Todo is now stored on github
+著作權宣告：
+  Copyright 2012 林博仁(Henry Lin)
 智慧財產授權條款：
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU Lesser General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
 
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU Lesser General Public License for more details.
+
+  You should have received a copy of the GNU Lesser General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 /*--------------程式碼開始(Code Started)--------------*/
