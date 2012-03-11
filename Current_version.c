@@ -34,7 +34,7 @@
 /*////////其他前期處理器指令(Other Preprocessor Directives////////*/
 
 /*--------------全域宣告與定義(Global Declaration & Definition)--------------*/
-/*////////資料結構(Structures)、typedefs跟enumerations////////*/
+/*////////資料結構(Data Structures)、typedefs跟enumerations////////*/
 
 /*////////函式雛型(Function Prototypes)////////*/
 
