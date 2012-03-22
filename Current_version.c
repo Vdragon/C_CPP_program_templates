@@ -1,12 +1,12 @@
 ﻿/*程式框架(Program Framework)
 -----------------------------------
-更新紀錄(changelog)：
-  Changelog is now stored on github
-已知問題(known issues)：
-  Known issues is now stored on github
-待辦事項(todo)：
-  Todo is now stored on github
-著作權宣告：
+更新紀錄 | Changelog
+  Changelog is now stored on GitHub
+已知問題 | Known Issues
+  Known issues is now stored on GitHub
+待辦事項 | Todos
+  Todo is now stored on GitHub
+著作權宣告 | Copyright notice
   Copyright 2012 林博仁(Henry Lin)
 智慧財產授權條款：
   This program is free software: you can redistribute it and/or modify
