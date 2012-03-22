@@ -26,16 +26,14 @@
 
 /*--------------程式碼開始(Code Started)--------------*/
 /*--------------前期處理器指令(Preprocessor Directive)--------------*/
-/*////////環境設定(Environment Settings)////////*/
+/*////////程式所include之函式庫的標頭檔(Included Library Headers)////////*/
 
-/*////////程式所include的標頭檔(Included Headers)////////*/
-
-/*////////常數與巨集(Constants & Macros)以及其他#define指令////////*/
+/*////////常數與巨集(Constants & Macros)////////*/
 
 /*////////其他前期處理器指令(Other Preprocessor Directives////////*/
 
 /*--------------全域宣告與定義(Global Declaration & Definition)--------------*/
-/*////////資料結構(Data Structures)、typedefs跟enumerations////////*/
+/*////////Classes、資料結構(Data Structures)、type definitions跟enumerations////////*/
 
 /*////////函式雛型(Function Prototypes)////////*/
 
