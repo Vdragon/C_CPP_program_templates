@@ -35,7 +35,7 @@
 /*--------------全域宣告與定義(Global Declaration & Definition)--------------*/
 /*////////Classes、資料結構(Data Structures)、type definitions跟enumerations////////*/
 
-/*////////函式雛型(Function Prototypes)////////*/
+/*////////函式和函式雛型(Function & Function Prototypes)////////*/
 
 /*////////全域變數(Global Variables)////////*/
 
