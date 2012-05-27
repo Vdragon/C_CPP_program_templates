@@ -1,4 +1,4 @@
-﻿/*程式框架(Program Framework)
+﻿/* 程式名稱 | Program name
 -----------------------------------
 更新紀錄 | Changelog
   Changelog is now stored on GitHub
@@ -24,19 +24,12 @@
   along with this software.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-/*--------------程式碼開始(Code Started)--------------*/
-/*--------------前期處理器指令(Preprocessor Directive)--------------*/
-/*////////程式所include之函式庫的標頭檔(Included Library Headers)////////*/
+/*||||| Forward declarations |||||*/
 
-/*////////常數與巨集(Constants & Macros)////////*/
+/*||||| 程式所include之函式庫的標頭檔 | Included Library Headers |||||*/
 
-/*////////其他前期處理器指令(Other Preprocessor Directives////////*/
+/*|||||常數與巨集 | Constants & Macros |||||*/
 
-/*--------------全域宣告與定義(Global Declaration & Definition)--------------*/
-/*////////Classes、資料結構(Data Structures)、type definitions跟enumerations////////*/
+/*||||| Definition of data type, enumeration, data structure and class |||||*/
 
-/*////////函式和函式雛型(Function & Function Prototypes)////////*/
-
-/*////////全域變數(Global Variables)////////*/
-
-/*--------------主要程式碼(Main Code)--------------*/
+/*||||| 全域變數 | Global Variables |||||*/

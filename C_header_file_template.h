@@ -1,4 +1,4 @@
-﻿/* C header檔案範本 */
+﻿/* header名稱 | Header name */
 /* include guard：避免同一個header檔案被include第二次。*/
 #ifndef _H_INCLUDED
   #define _H_INCLUDED
@@ -6,19 +6,14 @@
   #ifdef __cplusplus
     extern "C"{
   #endif
-  /*--------------前期處理器指令(Preprocessor Directive)--------------*/
-  /*////////程式所include之函式庫的標頭檔(Included Library Headers)////////*/
 
-  /*////////常數與巨集(Constants & Macros)////////*/
+/*||||| Forward declarations |||||*/
 
-  /*////////其他前期處理器指令(Other Preprocessor Directives////////*/
+/*||||| 程式所include之函式庫的標頭檔 | Included Library Headers |||||*/
 
-  /*--------------全域宣告與定義(Global Declaration & Definition)--------------*/
-  /*////////Classes、資料結構(Data Structures)、type definitions跟enumerations////////*/
+/*|||||常數與巨集 | Constants & Macros |||||*/
 
-  /*////////函式和函式雛型(Function & Function Prototypes)////////*/
-
-  /*////////全域變數(Global Variables)////////*/
+/*||||| Definition of data type, enumeration, data structure and class |||||*/
 
 
   #ifdef __cplusplus
