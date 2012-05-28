@@ -30,3 +30,5 @@
 /*||||| Definition of data type, enumeration, data structure and class |||||*/
 
 /*||||| 全域變數 | Global Variables |||||*/
+
+/*||||| 主要程式碼 | Main Code |||||*/
