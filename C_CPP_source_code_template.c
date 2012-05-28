@@ -23,9 +23,6 @@
   You should have received a copy of the GNU Lesser General Public License
   along with this software.  If not, see <http://www.gnu.org/licenses/>.
 */
-
-/*||||| Forward declarations |||||*/
-
 /*||||| 程式所include之函式庫的標頭檔 | Included Library Headers |||||*/
 
 /*|||||常數與巨集 | Constants & Macros |||||*/
