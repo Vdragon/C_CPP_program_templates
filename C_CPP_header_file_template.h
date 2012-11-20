@@ -17,17 +17,17 @@
 	
 	You should have received a copy of the GNU Lesser General Public License along with 「軟體名稱 | Software name」.  If not, see <http://www.gnu.org/licenses/>.
 */
-/* include guard：避免同一個header檔案被include第二次 */
+/* include guard：避免同一個 header 檔案被 include 第二次 */
 #ifndef _H_INCLUDED
 	#define _H_INCLUDED
-	/* 如果是C++編譯器則停用C++特有的函式名稱mangling*/
+	/* 如果是 C++ 編譯器則停用 C++ 特有的函式名稱 mangling*/
 	#ifdef __cplusplus
 		extern "C"{
 	#endif
 
 	/*||||| Forward declarations |||||*/
 
-	/*||||| 程式所include之函式庫的標頭檔 | Included Library Headers |||||*/
+	/*||||| 程式所 include 之函式庫的標頭檔 | Included Library Headers |||||*/
 
 	/*||||| 常數與巨集 | Constants & Macros |||||*/
 
