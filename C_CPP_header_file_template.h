@@ -40,4 +40,4 @@
 	#ifdef __cplusplus
 		}
 	#endif
-#endif /* _H_INCLUDED */
+#endif
