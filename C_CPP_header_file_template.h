@@ -13,7 +13,7 @@
 		Todo is now stored on GitHub(http://www.github.com)
 	著作權宣告
 	Copyright declaration
-		Copyright 2012 林博仁(Henry Lin, pika1021@gmail.com)
+		Copyright 2013 林博仁<pika1021@gmail.com>
 	智慧財產授權條款
 	Intellectual property license
 		「程式名稱 | Program name」 is part of 「軟體名稱 | Software name」
@@ -22,6 +22,9 @@
 		「軟體名稱 | Software name」 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
 		
 		You should have received a copy of the GNU Lesser General Public License along with 「軟體名稱 | Software name」.  If not, see <http://www.gnu.org/licenses/>.
+	本程式的框架基於「C/C++ program templates」專案
+	This program's frame is based on "C/C++ program templates" project
+		https://github.com/Vdragon/C_CPP_program_templates
 */
 /* include guard：避免同一個 header 檔案被 include 第二次 */
 	#ifndef _H_INCLUDED
