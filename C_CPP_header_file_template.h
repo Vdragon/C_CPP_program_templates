@@ -53,6 +53,13 @@
 
 		/* 全域變數
 		   Global variables */
+
+		/* Inline 子程式的實作
+		   Inline procedure implementations
+		     參考資料
+		     Reference resources
+		       How do you tell the compiler to make a member function inline?, C++ FAQ
+		       http://www.parashift.com/c++-faq-lite/inline-member-fns.html */
 		
 		#ifdef __cplusplus
 			}
