@@ -17,11 +17,14 @@
 
 /* Definition of data type, enumeration, data structure and class */
 
-/* 函式雛型
- * Function Prototypes */
+/* 函式的宣告（函式雛型）
+ * Function declarations (function prototypes)
+     用途
+     Usage 
+       預先告訴編譯器(compiler)子程式的存在 */
 
 /* 全域變數
  * Global Variables */
 
-/* 主要程式碼
- * Main Code */
+/* 函式的實作
+ * Function implementations */
