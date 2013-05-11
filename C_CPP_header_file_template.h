@@ -56,6 +56,9 @@
 
 		/* Inline 子程式的實作
 		   Inline procedure implementations
+		     限制
+		     Limitations
+		       C89 規範中不可用
 		     參考資料
 		     Reference resources
 		       How do you tell the compiler to make a member function inline?, C++ FAQ
