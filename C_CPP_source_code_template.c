@@ -12,10 +12,11 @@
 /* 程式所引入(include)之函式庫的標頭(header)檔案
  * Included library headers */
 
-/* 常數與巨集
- * Constants & Macros */
+/* 常數與巨集的定義
+ * Definition of constants & macros */
 
-/* Definition of data type, enumeration, data structure and class */
+/* 資料類型、enumeration、資料結構與物件類別的定義
+ * Definition of data type, enumeration, data structure and class */
 
 /* 函式的宣告（函式雛型）
  * Function declarations (function prototypes)
