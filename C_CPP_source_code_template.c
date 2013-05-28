@@ -1,7 +1,7 @@
 /* 
 	請見本檔案的標頭(header)檔案以得到更多關於本檔案的說明
 	
-	本程式的框架基於「C/C++ program templates」專案
+	本程式的框架基於「C/C++ 程式範本」專案
 	This program's frame is based on "C/C++ program templates" project
 		https://github.com/Vdragon/C_CPP_program_templates
 	建議編輯器設定
