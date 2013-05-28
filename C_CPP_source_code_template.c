@@ -1,5 +1,5 @@
 /* 
-	請見本檔案的 header 檔案以得到更多關於本檔案的說明
+	請見本檔案的標頭(header)檔案以得到更多關於本檔案的說明
 	
 	本程式的框架基於「C/C++ program templates」專案
 	This program's frame is based on "C/C++ program templates" project
@@ -9,7 +9,7 @@
 		Indentation by tab character
 		Tab character width = 2 space characters
 */
-/* 程式所 include 之函式庫的標頭檔
+/* 程式所引入(include)之函式庫的標頭(header)檔案
  * Included Library Headers */
 
 /* 常數與巨集
