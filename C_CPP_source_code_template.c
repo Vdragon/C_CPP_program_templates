@@ -10,7 +10,7 @@
 		Tab character width = 2 space characters
 */
 /* 程式所引入(include)之函式庫的標頭(header)檔案
- * Included Library Headers */
+ * Included library headers */
 
 /* 常數與巨集
  * Constants & Macros */
