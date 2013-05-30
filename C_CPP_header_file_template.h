@@ -1,7 +1,7 @@
 /* 
 	程式名稱
-	Program name
-		
+	Program name */
+		#define PROGRAM_NAME "Unnamed program" /*
 	更新紀錄
 	Changelog
 		Changelog is now stored on GitHub(http://www.github.com)

@@ -11,6 +11,9 @@
 */
 /* 程式所引入(include)之函式庫的標頭(header)檔案
  * Included library headers */
+	/* 自己的 header 檔案
+		#include ".h" */
+		
 	/* 標準 C 函式庫
 	 * Standard C libraries
 	 *   C library - C++ Reference
