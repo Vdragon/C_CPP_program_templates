@@ -2,7 +2,8 @@
 	#ifndef PROGRAM_NAME
 		/*程式名稱
 			Program name */
-			#define PROGRAM_NAME "Unnamed program"
+			#define PROGRAM_NAME "undefined.program.domain"
+			#define PROGRAM_NAME_READABLE "Unnamed program"
 		/*更新紀錄
 			Changelog
 				Changelog is now stored on GitHub(http://www.github.com)
