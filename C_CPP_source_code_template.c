@@ -12,7 +12,7 @@
 /* 程式所引入(include)之函式庫的標頭(header)檔案
  * Included library headers */
 	/* 自己的 header 檔案
-		#include ".h" */
+		#include "SELF_NAME.h" */
 		
 	/* 標準 C 函式庫
 	 * Standard C libraries
@@ -104,7 +104,10 @@
 				#include <algorithm> */
 			/* 
 				#include <> */
-			
+	
+	/* GNU gettext library
+		#include <libintl.h> */
+		
 	/* Ｖ字龍的 C/C++ 函式庫蒐集
 	 * Vdragons C CPP Libraries Collection
 	 *   https://github.com/Vdragon/Vdragons_C_CPP_Libraries_Collection */
@@ -112,6 +115,8 @@
 	
 /* 常數與巨集的定義
  * Definition of constants & macros */
+	/* GNU gettext library
+		#define _(Untranslated_C_string) gettext(Untranslated_C_string) */
 
 /* 資料類型、enumeration、資料結構與物件類別的定義
  * Definition of data type, enumeration, data structure and class */
