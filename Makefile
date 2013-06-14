@@ -2,7 +2,7 @@
 # https://github.com/Vdragon/GNU_Make_Makefile_templates
 # 變數
 # Variables
-NAME_MODULE = C_CPP_program_templates
+NAME_MODULE = C_CPP_source_code_template
 
 POSTFIX_TYPE_SOURCE_CODE_C = c
 POSTFIX_TYPE_SOURCE_CODE_CPP = cpp
@@ -35,16 +35,17 @@ COMMAND_GCC_LINK = ${COMPILER_GCC} ${OPTION_GCC_OUTPUT} ${DIR_BUILD}/${NAME_TARG
 
 # 主要內容
 # Main content
-
-## Specific build rules
-.PHONY : compile
-compile : 
 ## Generic build rules
 ### C/CPP source code
 %.o : %.c
-	${COMPILER_C} ${OPTION_GCC_ONLY_COMPILE} ${OPTION_GCC_OUTPUT} %.o %.c
+	${COMPILER_C} ${OPTION_GCC_ONLY_COMPILE} ${OPTION_GCC_OUTPUT} $@ $<
 %.o : %.cpp
-	${COMPILER_CPP} ${OPTION_GPP_ONLY_COMPILE} ${OPTION_GPP_OUTPUT} %.o %.cpp
+	${COMPILER_CPP} ${OPTION_GPP_ONLY_COMPILE} ${OPTION_GPP_OUTPUT} $@ $<
+	
+## Specific build rules
+.PHONY : compile
+compile : ${NAME_MODULE}.o
+	
 
 .PHONY : clean
 clean :
