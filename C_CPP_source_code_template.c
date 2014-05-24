@@ -14,14 +14,14 @@
 	/* 自己的 header 檔案
 		#include "SELF_NAME.h" */
 		
-	/* 標準 C 函式庫
-	 * Standard C libraries
+	/* 標準Ｃ函式庫
+	 * Standard C library
 	 *   C library - C++ Reference
 	 *   http://www.cplusplus.com/reference/clibrary/ */
-		/* C library to perform Input/Output operations
+		/* Definitions of functions to perform data input/output(I/O) operations
 			#include <stdio.h>
 			#include <cstdio> */
-		/* C Standard General Utilities Library
+		/* Definitions of functions/constants that provides general utilities(that are otherwise homeless)
 			#include <stdlib.h>
 			#include <cstdlib> */
 		/* C error number 
@@ -84,9 +84,9 @@
 		/* Type-generic math(non C89)
 			#include <tgmath.h>
 			#include <ctgmath> */
-		/* 
-			#include <.h>
-			#include <c> */
+		/* <title>
+			#include <<name>.h>
+			#include <c<name>> */
 		
 	/* 標準 C++ 函式庫 */
 		/* Input/Output related */
