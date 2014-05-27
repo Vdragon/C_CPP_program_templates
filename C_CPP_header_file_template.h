@@ -20,7 +20,7 @@
 			Intellectual property license
 				「程式名稱 | Program name」 is part of 「軟體名稱 | Software name」, please checkout this software's official site for the license this software apply.
 			本程式的框架基於「C/C++ program templates」專案
-			This program's frame is based on "C/C++ program templates" project
+			This program's framework is based on "C/C++ program templates" project
 				https://github.com/Vdragon/C_CPP_program_templates
 			建議編輯器設定
 			Recommended editor settings
