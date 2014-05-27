@@ -4,7 +4,7 @@
 			Program name */
 			#define PROGRAM_NAME "undefined.program.domain"
 			#define PROGRAM_NAME_READABLE "Unnamed program"
-		/*更新紀錄
+		/*變更紀錄
 			Changelog
 				Changelog is now stored on GitHub(http://www.github.com)
 			已知問題
