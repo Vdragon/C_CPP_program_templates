@@ -6,13 +6,13 @@
 			#define PROGRAM_NAME_READABLE "Unnamed program"
 		/*變更紀錄
 			Changelog
-				Changelog is now stored on GitHub(http://www.github.com)
+				Changelog is now stored in the Git repository log containing this file
 			已知問題
 			Known issues
-				Known issues is now stored on GitHub(http://www.github.com)
+				Known issues is now stored in this project's issue tracker
 			待辦事項
 			Todos
-				Todo is now stored on GitHub(http://www.github.com)
+				Todos is now stored in this project's issue tracker
 			著作權宣告
 			Copyright declaration
 				Copyright RELEASE_YEAR © 未定義作者<undefined@mail.address>
