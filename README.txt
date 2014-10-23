@@ -6,4 +6,4 @@ To the extent possible under law, Vdragon(pika1021@gmail.com) has waived all cop
 
 本專案已經被「通用程式來源程式碼範本」專案取代，敬請移駕：
 This project has been superseded by "Generic Program Source Code Project", please checkout:
-https://github.com/Vdragon/C_CPP_program_templates
+https://github.com/Vdragon/Generic_Program_Source_Code_Templates
